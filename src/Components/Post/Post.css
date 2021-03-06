@@ -1,0 +1,22 @@
+#see-more{
+    margin-left: 600px;
+    background-color: turquoise;
+}
+.title{
+    margin-left: 60px;
+    font-weight: 600;
+}
+.body{
+    margin-left: 60px;
+}
+.post{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: lightgray;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.link{
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.not-found{
+   margin-top: 150px;
+    font-size: 30px;
+    text-align: center;
+}
+.digit{
+   color: red;
+}
+#love-icon{
+   height: 60px;
+   width: 60px;
+}
